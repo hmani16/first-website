@@ -25,4 +25,11 @@
     target: '#sideNav'
   });
 
+  // changing color of matlab pic when hovered on
+  $('#tochange').click(function() {
+    console.log("hae");
+    $('#tochange').attr('src', 'img/matlab.png');
+    console.log('help');
+  });
+
 })(jQuery); // End of use strict

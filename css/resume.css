@@ -58,6 +58,11 @@ h2 {
 .list-icons .list-inline-item i:hover {
   color: #BD5D38;
 }
+/*
+.list-cons .list-inline-item img:hover {
+  color: #BD5D38;
+  content: url(src="img/matlab.png")
+}*/
 
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 600;
